@@ -1,0 +1,11 @@
+html {
+  background-color: #000;
+}
+
+canvas {
+  background-color: #000;
+  left: calc(50% - 350px);
+  position: absolute;
+  top: calc(50% - 350px);
+}
+
