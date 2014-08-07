@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">Earth Clock</h1>
 <p>See a working example on my <a href="http://codepen.io/bartuc/pen/botAa" target="_blank">Codepen Page.</a></p>
-
+<h3>Description</h3>
 <p>The Earth Clock is an accurate simulation of the current position of our
 solar systems planets based on a given time. This could be used for a number
 of reasons, including:</p>
