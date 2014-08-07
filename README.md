@@ -1,13 +1,12 @@
-<!--
-      ______              __   __       ______ __              __
-     / ____/____ _ _____ / /_ / /_     / ____// /____   _____ / /__
-    / __/  / __ `// ___// __// __ \   / /    / // __ \ / ___// //_/
-   / /___ / /_/ // /   / /_ / / / /  / /___ / // /_/ // /__ / ,<
-  /_____/ \__,_//_/    \__//_/ /_/   \____//_/ \____/ \___//_/|_|
+<p>      ______              __   __       ______ __              __<br>
+     / ____/____ _ _____ / /_ / /_     / ____// /____   _____ / /__<br>
+    / __/  / __ `// ___// __// __ \   / /    / // __ \ / ___// //_/<br>
+   / /___ / /_/ // /   / /_ / / / /  / /___ / // /_/ // /__ / ,<<br>
+  /_____/ \__,_//_/    \__//_/ /_/   \____//_/ \____/ \___//_/|_|<br>
 
--->
+</p>
 
-<p>See a working example on my <a href="http://codepen.io/bartuc/pen/botAa">Codepen Page.</a></p>
+<p>See a working example on my <a href="http://codepen.io/bartuc/pen/botAa" target="_blank">Codepen Page.</a></p>
 
 <p>The Earth Clock is an accurate simulation of the current position of our
 solar systems planets based on a given time. This could be used for a number
