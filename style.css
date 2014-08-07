@@ -9,3 +9,17 @@ canvas {
   top: calc(50% - 350px);
 }
 
+#submit {
+  background-color: #eee;
+  color: #000;
+  cursor: pointer;
+  display: block;
+  height: 25px;
+  margin-top: 5px;
+  padding: 10px 0 0 0;
+  text-align: center;
+  width: 70px;
+
+  @include border-radius(3px);
+}
+
